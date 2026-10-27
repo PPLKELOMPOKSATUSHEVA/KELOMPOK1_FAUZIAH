@@ -3,3 +3,5 @@ Project Manager - Muhammad Sheva - 102042400069
 Anggota - Fauziah Wulandari Sudradjat - 102042400080 
 
 KELOMPOK 1 JAYA JAYA JAYA KEREN BANGET CIHUYYY KEREN
+
+S1-14 Fauziah - Melakukan eksplorasi teknologi Google Maps API dan OpenStreetMap untuk menentukan teknologi yang sesuai untuk pencarian lokasi.
